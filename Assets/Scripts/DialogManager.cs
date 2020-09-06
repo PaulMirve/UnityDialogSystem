@@ -37,6 +37,7 @@ public class DialogManager : MonoBehaviour
         }
         else
         {
+            References.player.canMove = true;
             dialog.SetActive(false);
         }
     }

@@ -15,4 +15,5 @@ public class Character : ScriptableObject
 {
     public new string name;
     public CharacterSprite[] images;
+    public Dialog[] dialogs;
 }
