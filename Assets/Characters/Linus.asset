@@ -13,10 +13,19 @@ MonoBehaviour:
   m_Name: Linus
   m_EditorClassIdentifier: 
   name: Linus
-  images:
+  portraits:
   - name: Neutral
     image: {fileID: 21300000, guid: 2f7931db42cb9164b8942cf6850a97c5, type: 3}
   - name: Happy
     image: {fileID: 21300000, guid: 1e35eae83499a9a439b8ac2bc0ee9615, type: 3}
   - name: Surprised
     image: {fileID: 21300000, guid: 113c7094c8d927b4dbdcaf414ada826b, type: 3}
+  sprites:
+  - name: Idle
+    image: {fileID: -843192924275370999, guid: 0166da637a94a20439d27c842366d2cd, type: 3}
+  - name: Walking1
+    image: {fileID: 1348598510974143098, guid: 0166da637a94a20439d27c842366d2cd, type: 3}
+  - name: Walking2
+    image: {fileID: 5863446789408411455, guid: 0166da637a94a20439d27c842366d2cd, type: 3}
+  dialogs:
+  - {fileID: 11400000, guid: 656bcfe9a37290144b7e709e3b6a420a, type: 2}

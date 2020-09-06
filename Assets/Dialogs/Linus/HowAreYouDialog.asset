@@ -10,19 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bdce57284434afd49b863c6369b4aa08, type: 3}
-  m_Name: FirstDialog
+  m_Name: HowAreYouDialog
   m_EditorClassIdentifier: 
-  characters: []
   lines:
-  - character: {fileID: 11400000, guid: e0d1a0ce30e3c174e9f7ef576a735061, type: 2}
-    spriteName: Neutral
-    text: Hi! This is the first dialog.
-  - character: {fileID: 11400000, guid: e0d1a0ce30e3c174e9f7ef576a735061, type: 2}
-    spriteName: Happy
-    text: This will be your introduction to the game.
   - character: {fileID: 11400000, guid: 47a954578dc82f648894b15fa473e9d9, type: 2}
     spriteName: Neutral
-    text: I'll be your guide during this adventure.
+    text: Hi!
   - character: {fileID: 11400000, guid: 47a954578dc82f648894b15fa473e9d9, type: 2}
     spriteName: Happy
-    text: I hope you enjoy it!
+    text: How are you?

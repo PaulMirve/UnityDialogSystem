@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1ef324e305ae194449ce0188d6581e21
+guid: dc37ffa8fd6db624b8ae10317aeaca08
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -17,6 +17,126 @@ TextureImporter:
   - first:
       213: -1234129598489028170
     second: Leah_Sprites_4
+  - first:
+      213: -3337310065082104301
+    second: Leah_Sprites_5
+  - first:
+      213: 7379470077139562549
+    second: Leah_Sprites_6
+  - first:
+      213: -6940720265488674340
+    second: Leah_Sprites_7
+  - first:
+      213: -400643290592410471
+    second: Leah_Sprites_8
+  - first:
+      213: -996680211536637127
+    second: Leah_Sprites_9
+  - first:
+      213: -8056964003649569062
+    second: Leah_Sprites_10
+  - first:
+      213: 4413157845139865654
+    second: Leah_Sprites_11
+  - first:
+      213: 2479014189942075911
+    second: Leah_Sprites_12
+  - first:
+      213: -2600164878393581742
+    second: Leah_Sprites_13
+  - first:
+      213: -668411313037350487
+    second: Leah_Sprites_14
+  - first:
+      213: 5203788101799188076
+    second: Leah_Sprites_15
+  - first:
+      213: -8132500316610125770
+    second: Leah_Sprites_16
+  - first:
+      213: 2519231170103174229
+    second: Leah_Sprites_17
+  - first:
+      213: -1275437701862958967
+    second: Leah_Sprites_18
+  - first:
+      213: -3215389010199746426
+    second: Leah_Sprites_19
+  - first:
+      213: -5497248804334314680
+    second: Leah_Sprites_20
+  - first:
+      213: 9127662669708694997
+    second: Leah_Sprites_21
+  - first:
+      213: -4852971409007498735
+    second: Leah_Sprites_22
+  - first:
+      213: 1715437610754535055
+    second: Leah_Sprites_23
+  - first:
+      213: -8141300347197539790
+    second: Leah_Sprites_24
+  - first:
+      213: -2967496889755886271
+    second: Leah_Sprites_25
+  - first:
+      213: -3403732870565283587
+    second: Leah_Sprites_26
+  - first:
+      213: 4169252179537564757
+    second: Leah_Sprites_27
+  - first:
+      213: -6807660753281824842
+    second: Leah_Sprites_28
+  - first:
+      213: 2704455786364131565
+    second: Leah_Sprites_29
+  - first:
+      213: 8704253140432208392
+    second: Leah_Sprites_30
+  - first:
+      213: -7170601131661602299
+    second: Leah_Sprites_31
+  - first:
+      213: -8096539607858550836
+    second: Leah_Sprites_32
+  - first:
+      213: -3055091085282052997
+    second: Leah_Sprites_33
+  - first:
+      213: -3450510255316223782
+    second: Leah_Sprites_34
+  - first:
+      213: 1750739401034777617
+    second: Leah_Sprites_35
+  - first:
+      213: -1762894433755895046
+    second: Leah_Sprites_36
+  - first:
+      213: 4846485573367156873
+    second: Leah_Sprites_37
+  - first:
+      213: -1461402424758092706
+    second: Leah_Sprites_38
+  - first:
+      213: -7450382814496187636
+    second: Leah_Sprites_39
+  - first:
+      213: 779024612399545712
+    second: Leah_Sprites_40
+  - first:
+      213: 8826120789447681372
+    second: Leah_Sprites_41
+  - first:
+      213: -2882354093122982292
+    second: Leah_Sprites_42
+  - first:
+      213: -7618093410543029823
+    second: Leah_Sprites_43
+  - first:
+      213: 5135437320378097297
+    second: Leah_Sprites_44
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -46,7 +166,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -60,7 +180,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 10
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -105,10 +225,10 @@ TextureImporter:
       name: Leah_Sprites_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 140
-        height: 260
+        x: 22
+        y: 357
+        width: 14
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -126,10 +246,10 @@ TextureImporter:
       name: Leah_Sprites_1
       rect:
         serializedVersion: 2
-        x: 190
-        y: 0
-        width: 140
-        height: 260
+        x: 38
+        y: 357
+        width: 14
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,10 +267,10 @@ TextureImporter:
       name: Leah_Sprites_2
       rect:
         serializedVersion: 2
-        x: 380
-        y: 0
-        width: 140
-        height: 260
+        x: 54
+        y: 357
+        width: 14
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,10 +288,10 @@ TextureImporter:
       name: Leah_Sprites_3
       rect:
         serializedVersion: 2
-        x: 570
-        y: 0
-        width: 130
-        height: 280
+        x: 70
+        y: 357
+        width: 14
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,10 +309,10 @@ TextureImporter:
       name: Leah_Sprites_4
       rect:
         serializedVersion: 2
-        x: 770
-        y: 0
-        width: 120
-        height: 250
+        x: 23
+        y: 325
+        width: 14
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,6 +322,846 @@ TextureImporter:
       bones: []
       spriteID: 6b9144b3bad7fdee0800000000000000
       internalID: -1234129598489028170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 325
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31602797d2e7fa1d0800000000000000
+      internalID: -3337310065082104301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 325
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303782efe4296660800000000000000
+      internalID: 7379470077139562549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 325
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1513a21bb9daf90800000000000000
+      internalID: -6940720265488674340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 293
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9948896cc01a07af0800000000000000
+      internalID: -400643290592410471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 293
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93392b4d0a41b22f0800000000000000
+      internalID: -996680211536637127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 293
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adebb522de9ef2090800000000000000
+      internalID: -8056964003649569062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 293
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6304a41adafae3d30800000000000000
+      internalID: 4413157845139865654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 261
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70276a8754a376220800000000000000
+      internalID: 2479014189942075911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 261
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f57e1c1db5aebd0800000000000000
+      internalID: -2600164878393581742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 261
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a96e82c37359b6f0800000000000000
+      internalID: -668411313037350487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 261
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66152e25b1973840800000000000000
+      internalID: 5203788101799188076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 229
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630a3b4cc0e832f80800000000000000
+      internalID: -8132500316610125770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 229
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5546719d66b16f220800000000000000
+      internalID: 2519231170103174229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 229
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988515fea2cbc4ee0800000000000000
+      internalID: -1275437701862958967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 197
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68869582bb4a063d0800000000000000
+      internalID: -3215389010199746426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 197
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b56bf8659d5b3b0800000000000000
+      internalID: -5497248804334314680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 197
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5949176d8fbae70800000000000000
+      internalID: 9127662669708694997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 165
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a2bf43738c6acb0800000000000000
+      internalID: -4852971409007498735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 165
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e6e5f0b657ec710800000000000000
+      internalID: 1715437610754535055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 165
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ab68bf77a440f80800000000000000
+      internalID: -8141300347197539790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 165
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d160e1d4551d6d0800000000000000
+      internalID: -2967496889755886271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 137
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8b2abecf283c0d0800000000000000
+      internalID: -3403732870565283587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 137
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5541c5484c82cd930800000000000000
+      internalID: 4169252179537564757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 133
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7c4490d945681a0800000000000000
+      internalID: -6807660753281824842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 133
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8dbf87538288520800000000000000
+      internalID: 2704455786364131565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 101
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8024a863d18bbc870800000000000000
+      internalID: 8704253140432208392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 101
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502db412348ec7c90800000000000000
+      internalID: -7170601131661602299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 101
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7e5bbbf1053af80800000000000000
+      internalID: -8096539607858550836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 101
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74fc4138d22a95d0800000000000000
+      internalID: -3055091085282052997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 69
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8b80254335d10d0800000000000000
+      internalID: -3450510255316223782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 69
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11445fc9530eb4810800000000000000
+      internalID: 1750739401034777617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 69
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa677b4ad0f887e0800000000000000
+      internalID: -1762894433755895046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 37
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980da9183fc224340800000000000000
+      internalID: 4846485573367156873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c366ecc3e08bbe0800000000000000
+      internalID: -1461402424758092706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 37
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b9745dd4cea9890800000000000000
+      internalID: -7450382814496187636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 37
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d7c5de1c6afca00800000000000000
+      internalID: 779024612399545712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5528bf581eac7a70800000000000000
+      internalID: 8826120789447681372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 5
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ee2824932dff7d0800000000000000
+      internalID: -2882354093122982292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 5
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1b6dec768174690800000000000000
+      internalID: -7618093410543029823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leah_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e9b6fb80db44740800000000000000
+      internalID: 5135437320378097297
       vertices: []
       indices: 
       edges: []

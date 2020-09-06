@@ -4,6 +4,13 @@ using UnityEngine;
 using UnityEngine.UI;
 
 [System.Serializable]
+public struct Portrait
+{
+    public string name;
+    public Sprite image;
+}
+
+[System.Serializable]
 public struct CharacterSprite
 {
     public string name;
@@ -14,6 +21,7 @@ public struct CharacterSprite
 public class Character : ScriptableObject
 {
     public new string name;
-    public CharacterSprite[] images;
+    public Portrait[] portraits;
+    public CharacterSprite[] sprites;
     public Dialog[] dialogs;
 }

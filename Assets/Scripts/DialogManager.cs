@@ -11,12 +11,14 @@ public class DialogManager : MonoBehaviour
     private DialogScript dialogScript;
     private int currentLineIndex;
 
+    private void Awake()
+    {
+        References.dialogManager = this;
+    }
     private void Start()
     {
         dialogScript = dialog.GetComponent<DialogScript>();
-        FollowConveration();
     }
-
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))
@@ -25,7 +27,6 @@ public class DialogManager : MonoBehaviour
             FollowConveration();
         }
     }
-
     public void FollowConveration()
     {
         if (currentLineIndex < conversation.lines.Length)
@@ -33,10 +34,11 @@ public class DialogManager : MonoBehaviour
             Line currentLine = conversation.lines[currentLineIndex];
             dialogScript.Dialog = currentLine.text;
             dialogScript.Name = currentLine.character.name;
-            dialogScript.Image = currentLine.character.images.FirstOrDefault(sprite => sprite.name == currentLine.spriteName).image;
+            dialogScript.Image = currentLine.character.portraits.FirstOrDefault(sprite => sprite.name == currentLine.spriteName).image;
         }
         else
         {
+            currentLineIndex = 0;
             References.player.canMove = true;
             dialog.SetActive(false);
         }

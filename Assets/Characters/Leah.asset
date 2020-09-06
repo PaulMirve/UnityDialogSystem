@@ -13,10 +13,22 @@ MonoBehaviour:
   m_Name: Leah
   m_EditorClassIdentifier: 
   name: Leah
-  images:
+  portraits:
   - name: Neutral
     image: {fileID: 21300000, guid: e3e42c7b60d08ac4e95696f81e9a51fa, type: 3}
   - name: Happy
     image: {fileID: 21300000, guid: e7639b8670619cb4e8638ad815f2d068, type: 3}
   - name: Concerned
     image: {fileID: 21300000, guid: 8ecab0e5fe1643644aae4913aab63756, type: 3}
+  sprites:
+  - name: Idle
+    image: {fileID: -1070285953133617842, guid: dc37ffa8fd6db624b8ae10317aeaca08,
+      type: 3}
+  - name: Walking1
+    image: {fileID: -7212382579481221405, guid: dc37ffa8fd6db624b8ae10317aeaca08,
+      type: 3}
+  - name: Walking2
+    image: {fileID: -3673632338436953928, guid: dc37ffa8fd6db624b8ae10317aeaca08,
+      type: 3}
+  dialogs:
+  - {fileID: 11400000, guid: 9e11535e6eed0064d8a501e7fb12ebd2, type: 2}
