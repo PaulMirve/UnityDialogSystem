@@ -30,6 +30,9 @@ public class PlayerScript : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rigidBody.MovePosition(rigidBody.position + moveVelocity * Time.fixedDeltaTime);
+        if (canMove)
+        {
+            rigidBody.MovePosition(rigidBody.position + moveVelocity * Time.fixedDeltaTime);
+        }
     }
 }
