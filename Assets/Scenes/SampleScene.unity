@@ -514,7 +514,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1180798353
 RectTransform:
   m_ObjectHideFlags: 0
@@ -903,7 +903,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac45787b71d5ed14eb43ef375f1ed17d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  conversation: {fileID: 11400000, guid: afa5683e359ac554289db8ca5b90485b, type: 2}
+  conversation: {fileID: 0}
   dialog: {fileID: 1180798352}
 --- !u!4 &1848243700
 Transform:
@@ -943,6 +943,7 @@ GameObject:
   - component: {fileID: 2084876521}
   - component: {fileID: 2084876523}
   - component: {fileID: 2084876522}
+  - component: {fileID: 2084876524}
   m_Layer: 5
   m_Name: Dialog Text
   m_TagString: Untagged
@@ -1010,6 +1011,32 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2084876520}
   m_CullTransparentMesh: 0
+--- !u!61 &2084876524
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2084876520}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.6770935, y: -0.36495972}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 816.1523, y: 151.18231}
+  m_EdgeRadius: 0
 --- !u!1001 &2109165762
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1083,6 +1110,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 47a954578dc82f648894b15fa473e9d9,
         type: 2}
+    - target: {fileID: 7371345662460324767, guid: f6a22d38ddd94524492ad5f1584cb2ca,
+        type: 3}
+      propertyPath: dialog
+      value: 
+      objectReference: {fileID: 1180798352}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f6a22d38ddd94524492ad5f1584cb2ca, type: 3}
 --- !u!1001 &7371345662924430357
@@ -1152,5 +1184,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7371345662460324767, guid: f6a22d38ddd94524492ad5f1584cb2ca,
+        type: 3}
+      propertyPath: dialogManager
+      value: 
+      objectReference: {fileID: 1180798352}
+    - target: {fileID: 7371345662460324767, guid: f6a22d38ddd94524492ad5f1584cb2ca,
+        type: 3}
+      propertyPath: dialog
+      value: 
+      objectReference: {fileID: 1180798352}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f6a22d38ddd94524492ad5f1584cb2ca, type: 3}

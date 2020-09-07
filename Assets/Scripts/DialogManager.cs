@@ -23,7 +23,6 @@ public class DialogManager : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            currentLineIndex++;
             FollowConveration();
         }
     }
@@ -35,6 +34,7 @@ public class DialogManager : MonoBehaviour
             dialogScript.Dialog = currentLine.text;
             dialogScript.Name = currentLine.character.name;
             dialogScript.Image = currentLine.character.portraits.FirstOrDefault(sprite => sprite.name == currentLine.spriteName).image;
+            currentLineIndex++;
         }
         else
         {
